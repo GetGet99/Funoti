@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Funoti (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Funoti (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
